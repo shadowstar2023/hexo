@@ -7,7 +7,7 @@ export = {
   language: 'en',
   timezone: '',
   // URL
-  url: 'http://example.com',
+  url: 'https://shadowstar2023.github.io',
   root: '/',
   permalink: ':year/:month/:day/:title/',
   permalink_defaults: {},
